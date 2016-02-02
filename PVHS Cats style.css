@@ -1,0 +1,45 @@
+body {
+ background-color: #020202
+}
+h1 {
+color: #7b1113;
+font-family:"Arial Black",Gadget, sans-serif;
+font-size: 100px;
+    margin-top: 2px;
+    margin-right: 200px;
+    display: inline;
+        margin-left: 688px;
+}
+#Panther {
+	margin-right: 100px;
+    margin-left: 347px;
+   
+}
+#Cats{
+	display: inline;
+	width: 170px;
+	margin-left: -150px;
+	}
+#Music {
+	margin-left: 193px;
+    margin-top: -290px;
+}
+a {
+	color: white;
+	font-size: 38px;
+	font-family: "Palatino Linotype", "Book Antiqua", Paltatino, serif;
+	text-decoration: none;
+}
+#Story {
+	margin-left: 1221px; 
+	margin-top: -49px;
+
+}
+#Characters {
+	margin-left: 193px;
+    margin-top: 57px;
+}
+#Tickets {
+	margin-left: 1221px; 
+	margin-top: -39px;
+}

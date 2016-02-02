@@ -1,0 +1,64 @@
+body {
+background-color: black; 
+}
+#page {
+width: 1000px;
+margin: auto;
+
+}
+h1 {
+	color: white;
+	font-family: "Palatino Linotype", "Book Antiqua", Paltatino, serif;
+	font-size: 100px;
+    margin-top: 2px;
+    display: inline;
+   }
+#Paw {
+	display: inline;
+	width: 170px;
+    position: relative;
+    z-index: 100;
+	}
+#Cat {
+	display: inline;
+	width: 321px;
+	}
+	
+#Jellicle {
+margin-left: 31px;
+display: inline;
+}
+#Gumbie {
+display: inline;
+margin-left: 60px;
+}
+#Glamour {
+display: inline;
+margin-left: 46px;
+}
+h2 {
+	color: maroon;
+	font-family: "Palatino Linotype", "Book Antiqua", Paltatino, serif;
+	font-size: 50px;
+ 	margin-left: 401px;
+ 	margin-bottom: 8px
+}
+h3 {
+	color: maroon;
+	font-family: "Palatino Linotype", "Book Antiqua", Paltatino, serif;
+	font-size: 50px;
+ 	margin-left: 401px;
+ 	margin-bottom: 8px
+}
+#One {
+margin-top: -53px;
+}
+#Gus {
+display: inline;
+}
+#Macavity {
+display: inline;
+}
+#Mistoffelees {
+display: inline;
+}
