@@ -65,10 +65,15 @@ margin-left: 60px;
 display: inline;
 margin-left: 46px;
 }
-#button {
-	background-color: black;
-    color: white;
-    border-color: black;
-    font-size: 28px;
-    font-family: "Palatino Linotype", "Book Antiqua", Paltatino, serif;
-   }
+#homepage {
+
+}
+#Mr {
+	color: white;
+	font-family: "Palatino Linotype", "Book Antiqua", Paltatino, serif;
+	font-size: 14px;
+    display: inline;
+    margin-left: 87px;
+    position: relative;
+    z-index: 100;
+}
