@@ -13,6 +13,9 @@ color: #7B1113;
 }
 h1 {
 color: #7B1113;
+display: inline;
+font-size: 82px;
+margin-left: 271px;
 }
 p {
 	font-family: "Heather";
